@@ -1,4 +1,4 @@
-# delete-tweets
+# Delete Tweets
 
 ![](https://github.com/theandrebass/delete-tweets/workflows/build/badge.svg)
 [![PyPI version](https://badge.fury.io/py/delete-tweets.svg)](https://badge.fury.io/py/delete-tweets)
